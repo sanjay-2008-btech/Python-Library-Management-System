@@ -71,9 +71,3 @@ library_management_oop/
 
 This project shows how Python OOP concepts can be used to model a real-world library. It is intended for educational use and can be extended with file storage, a database, a graphical interface, or fine calculations.
 
-## Reference
-
-The project idea is inspired by the educational Python OOP project examples shared here:
-https://github.com/MostafaAhmed98/Python_OOP_Projects
-
-This implementation is independently written for learning and demonstration.
